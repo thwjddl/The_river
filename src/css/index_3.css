@@ -1,0 +1,56 @@
+@media screen and (max-width:1499px) and (min-width:600px) {
+    .mainWrap>header>article {
+        width: 100%;
+        background-color: #fff;
+        height: 400px;
+        position: relative;
+        z-index: 9;
+    }
+
+    .mainWrap>header>article>p {
+        padding-top: 150px;
+    }
+
+    .main_video {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        margin-left: 0;
+    }
+}
+
+@media screen and (max-width:599px) {
+
+    .mainWrap>header>article>img {
+        width: 200px;
+        position: absolute;
+        top: 10px;
+        left: 30px;
+    }
+
+    .mainWrap>header>article>span {
+        position: absolute;
+        top: 82px;
+        left: 35px;
+        font: bold 13px '맑은고딕', sans-serif;
+    }
+
+    .mainWrap>header>article {
+        width: 100%;
+        background-color: #fff;
+        height: 400px;
+        position: relative;
+        z-index: 9;
+    }
+
+    .mainWrap>header>article>p {
+        padding-top: 150px;
+    }
+
+    .main_video {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        margin-left: 0;
+    }
+}
